@@ -59,4 +59,4 @@ This program depends on Python3 Pillow.
     
 ## License
 
-This software is MIT-Licensed.
+This project is licensed under the MIT License - see the LICENSE file for details
