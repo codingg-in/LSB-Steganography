@@ -56,3 +56,7 @@ This program depends on Python3 Pillow.
 ##### Installation Using Pip:
     sudo apt-get install python3-pip
     sudo pip3 install Pillow
+    
+## License
+
+This software is MIT-Licensed.
